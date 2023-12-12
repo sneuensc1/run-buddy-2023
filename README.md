@@ -1,6 +1,6 @@
 # run-buddy-2023
 
-# Run Buddy Inc.
+# Run Buddy
 
 ## Purpose
 A website that offers fitness training services.
